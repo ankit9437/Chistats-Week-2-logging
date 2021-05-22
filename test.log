@@ -1,0 +1,4 @@
+DEBUG:root:Hello World
+INFO:root:Admin logged in
+ERROR:root:Ankit raised an output
+DEBUG:root:Hello World
